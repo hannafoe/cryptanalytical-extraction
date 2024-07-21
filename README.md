@@ -1,6 +1,6 @@
 # Parameter Recovery Attack on ReLU-based Deep Neural Networks
 
-Implementation of an attack to recover the signatures and signs of a ReLU-based deep neural network (DNN). The code runs attacks for one layer of a DNN at each time.
+This repository implements an attack to recover signatures and signs of a ReLU-based deep neural network (DNN). The code executes attacks on one layer of the DNN at a time. Developed for the paper [Beyond Slow Signs in High-fidelity Model Extraction](https://arxiv.org/abs/2406.10011).
 
 # Explanation of this Codebase
 
