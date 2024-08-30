@@ -27,14 +27,14 @@ Prior to running this, however, the function that one wants to run needs to be c
 
 # Dependencies
 
-The code execution relies on the Python modules denoted below. The experiments were run on Python 3.10.11. In case the code does not run, here are the versions used:
+The code execution relies on the Python modules denoted below. The experiments were run on Python 3.10.11. In case the code does not run, here are the versions used. For more details please refer to the requirements.txt file.
 
 ```
 pip install tensorflow==2.15.0
 pip install numpy==1.25.2
 pip install pandas==2.1.2
 pip install jax==0.4.30
-pip install optax==0.2
+pip install optax==0.2.3
 pip install scipy==1.9.3
 ```
 

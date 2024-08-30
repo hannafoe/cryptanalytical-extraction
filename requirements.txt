@@ -1,0 +1,10 @@
+jax==0.4.30
+keras==2.15.0
+networkx==3.2.1
+numpy==1.25.2
+optax==0.2.3
+pandas==2.2.2
+scipy==1.14.1
+tensorflow==2.15.0
+tensorflow_intel==2.15.0
+tensorflow_model_optimization==0.7.5
